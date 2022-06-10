@@ -247,6 +247,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = RainyofSun;
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = 8HR7KN9336;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -494,6 +497,7 @@
 			baseConfigurationReference = C6DCCBA2E71286E2981F4F48 /* Pods-TBTTabBarController_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8HR7KN9336;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TBTTabBarController/TBTTabBarController-Prefix.pch";
 				INFOPLIST_FILE = "TBTTabBarController/TBTTabBarController-Info.plist";
@@ -510,6 +514,7 @@
 			baseConfigurationReference = 2C501D26EEAB4694C17CE70F /* Pods-TBTTabBarController_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8HR7KN9336;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TBTTabBarController/TBTTabBarController-Prefix.pch";
 				INFOPLIST_FILE = "TBTTabBarController/TBTTabBarController-Info.plist";

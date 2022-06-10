@@ -50,7 +50,7 @@
     _selectedTitleAttributes = [_unselectedTitleAttributes copy];
     _badgeBackgroundColor = [UIColor redColor];
     _badgeTextColor = [UIColor whiteColor];
-    _badgeTextFont = [TBTUIFont getFontWithStyle:TBTFontStyle_little];
+    _badgeTextFont = [UIFont systemFontOfSize:12];
     _badgePositionAdjustment = UIOffsetZero;
 }
 
