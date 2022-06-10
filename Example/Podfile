@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'TBTTabBarController_Example' do
+  pod 'TBTTabBarController', :path => '../'
+
+  target 'TBTTabBarController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
