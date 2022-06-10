@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'TBTTabBarController'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of TBTTabBarController.'
+  s.summary          = 'TBTTabBarController 控制器'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/RainyofSun/TBTTabBarController'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'RainyofSun' => '159322316lr@#' }
+  s.author           = { 'RainyofSun' => '807602063@qq.com' }
   s.source           = { :git => 'https://github.com/RainyofSun/TBTTabBarController.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

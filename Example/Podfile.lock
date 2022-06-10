@@ -1,0 +1,16 @@
+PODS:
+  - TBTTabBarController (0.1.0)
+
+DEPENDENCIES:
+  - TBTTabBarController (from `../`)
+
+EXTERNAL SOURCES:
+  TBTTabBarController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TBTTabBarController: 5697bb2b0bc42626cf9ce52d1b306c18cad88793
+
+PODFILE CHECKSUM: 25675155db140bf72307b3479a35cb1f71c34489
+
+COCOAPODS: 1.11.3
